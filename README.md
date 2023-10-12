@@ -1,20 +1,14 @@
-## RUN APP
+**RUN APP**
+_Android_ - npm run android
+_iOS_ - npm run ios
 
-# using npm
+**TRY DEEP LINKING**
 
-npm run android
-
-# using npm
-
-npm run ios
-
-## TRY DEEP LINKING
-
-# Using Terminal
+_Using Terminal_
 
 1. Run **xcrun simctl openurl booted shahabazsapp://details/2**
 
-# Using browser
+_Using browser_
 
 1. Open browser
 2. Enter **shahabazsapp://details/2**

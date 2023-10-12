@@ -1,5 +1,7 @@
 **RUN APP**
+
 _Android_ - npm run android
+
 _iOS_ - npm run ios
 
 **TRY DEEP LINKING**
